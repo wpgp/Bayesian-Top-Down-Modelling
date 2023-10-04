@@ -1,5 +1,5 @@
 # Bayesian-Top-Down-Population Disaggregation
-This repository houses a collection of scripts designed for top-down population disaggregation using the **randomForest** R package and the **bartMachine** R package. It's aimed at disaggregating population count from a higher administrative level to small area levels.
+This repository houses a collection of scripts designed for top-down population disaggregation using the **randomForest R package** and the **bartMachine R package **. It's aimed at disaggregating population count from a higher administrative level to small area levels.
 
 ## Scripts
 There are four main scripts included in this repository:
